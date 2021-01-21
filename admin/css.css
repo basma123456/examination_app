@@ -1,0 +1,21 @@
+.myClass {
+
+font-size : 50px;
+background-color:yellow;
+color:yellow;
+
+}
+
+
+table{
+
+    border-collapse:collapse;
+    width:100%;
+}
+
+table tr td{
+
+
+    border : 2px solid gray;
+}
+
